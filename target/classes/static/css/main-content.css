@@ -1,0 +1,49 @@
+body {
+    margin: 0 !important;
+    height: 100vh;
+    width: 100%;
+}
+.container.main-content {
+    margin: 0 !IMPORTANT;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.main-content-sub {
+    padding: 0 !important;
+}
+.main-content-sub.left {
+   width: 100% !important;
+   max-width: 250px;
+   display: flex;
+   justify-content: center;
+    height: 100vh;
+}
+
+.col-md-6.main-content-sub.right {
+    width: 70% !important;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div#sidenav {
+    width: 100%;
+    background: #000;
+}
+ul.menu-list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    text-decoration: none;
+    margin: 0 !important;
+}
+.menu-list li {
+    text-decoration: none;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+#sidenav figure img {
+    width: 100%;
+    height: 100%;
+}

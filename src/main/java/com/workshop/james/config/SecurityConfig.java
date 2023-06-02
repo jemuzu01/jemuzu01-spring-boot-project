@@ -29,7 +29,7 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         return http.csrf().disable()
                 .authorizeHttpRequests()
-                .requestMatchers("/api/newuser","/user/image","/css/**", "/uploads/**").permitAll()
+                .requestMatchers("/register","/api/newuser","/user/image","/css/**", "/uploads/**").permitAll()
                 .and()
                 .authorizeHttpRequests()
                 .requestMatchers("/user/**").hasAuthority("ROLE_ADMIN")
@@ -39,6 +39,7 @@ public class SecurityConfig {
                 .and()
                 .formLogin()
                 .loginPage("/login")
+                .failureUrl("/login?error=true")
                 .defaultSuccessUrl("/api/home",true)
                 .permitAll()
                 .and()

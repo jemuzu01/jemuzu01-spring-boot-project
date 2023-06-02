@@ -18,6 +18,8 @@ public class User{
     private String name;
     private String email;
     private String password;
+    private Boolean isVerified;
+    private String token;
     private String roles;
 
     @JsonIgnore

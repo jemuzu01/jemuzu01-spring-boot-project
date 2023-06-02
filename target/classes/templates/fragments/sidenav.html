@@ -1,6 +1,6 @@
 <div id="sidenav">
     <figure>
-    <img th:src="@{/uploads/download.png}" />
+        <img th:src="@{'/uploads/' + ${session.profileImgName}}" alt="Profile Image">
     </figure>
     <ul class="menu-list">
         <li href="#">Dashboard</li>

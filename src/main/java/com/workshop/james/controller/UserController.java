@@ -64,10 +64,21 @@ public class UserController {
         int userid = userService.getID(username);
         String strId = Integer.toString(userid);
         ProfilePic img = profilePicService.getProfileImgByUserId(userid);
+        String imgName;
+        if(img != null)
+        {
+            imgName = img.getName();
+            String imgUrl  = "/uploads/"+imgName;
+            session.setAttribute("profileImgName", imgName);
+            session.setAttribute("username", strId);
+        }
+        else
+        {
+            imgName  = "download.png";
+            session.setAttribute("profileImgName", imgName);
+        }
 
-        String imgName = img.getName();
-        session.setAttribute("profileImgName", imgName);
-        session.setAttribute("username", strId);
+
         return modelAndView;
     }
 

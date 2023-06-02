@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="211f0b14-bb9a-4d05-a64d-ef094d294d72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/uploads/JamesGubaton_Exercise24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/JamesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/JamesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/controller/UserRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/controller/UserRoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workshop/james/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workshop/james/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/main-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/main-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/sidenav.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/sidenav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workshop/james/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workshop/james/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workshop/james/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workshop/james/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workshop/james/controller/UserRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workshop/james/controller/UserRoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workshop/james/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workshop/james/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workshop/james/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workshop/james/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workshop/james/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workshop/james/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/main-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/main-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/uploads/JamesGubaton_Exercise13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/uploads/JamesGubaton_Exercise15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/uploads/JamesGubaton_Exercise16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/uploads/JamesGubaton_Exercise17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/sidenav.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/sidenav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QUdFuPmjLqv4uCMsbW4r3lSzHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jgubaton/Desktop/james/src/main/resources/static/uploads&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jgubaton\Desktop\james\src\main\resources\static\uploads" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="211f0b14-bb9a-4d05-a64d-ef094d294d72" name="Changes" comment="" />
+      <created>1685412002364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685412002364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="2919835e-9611-4db4-84ed-77d92de5f203">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2919835e-9611-4db4-84ed-77d92de5f203" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+</project>
